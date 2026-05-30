@@ -6,10 +6,10 @@ ENV ASPNETCORE_URLS=http://+:8080
 FROM mcr.microsoft.com/dotnet/sdk:10.0 AS build
 WORKDIR /src
 COPY . .
-RUN dotnet restore "MuitLibraryNowAPI/MuitLibraryNowAPI.csproj"
-RUN dotnet publish  "MuitLibraryNowAPI/MuitLibraryNowAPI.csproj" -c Release -o /app/out
+RUN dotnet restore "VillaniaLibraryNowAPI/VillaniaLibraryNowAPI.csproj"
+RUN dotnet publish  "VillaniaLibraryNowAPI/VillaniaLibraryNowAPI.csproj" -c Release -o /app/out
 
 FROM base AS final
 WORKDIR /app
 COPY --from=build /app/out .
-ENTRYPOINT ["dotnet", "MuitLibraryNowAPI.dll"]
+ENTRYPOINT ["dotnet", "VillaniaLibraryNowAPI.dll"]

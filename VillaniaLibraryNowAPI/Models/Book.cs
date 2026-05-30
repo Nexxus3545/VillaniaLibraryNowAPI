@@ -1,4 +1,4 @@
-﻿namespace MuitLibraryNowAPI.Models
+namespace VillaniaLibraryNowAPI.Models
 {
     public class Book
     {

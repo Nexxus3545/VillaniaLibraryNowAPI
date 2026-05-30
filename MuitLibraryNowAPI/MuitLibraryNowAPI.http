@@ -1,6 +1,0 @@
-﻿@MuitLibraryNowAPI_HostAddress = http://localhost:8080
-
-GET {{MuitLibraryNowAPI_HostAddress}}/api/v1/books
-Accept: application/json
-
-###

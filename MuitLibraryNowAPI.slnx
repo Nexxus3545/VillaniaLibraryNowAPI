@@ -1,4 +1,0 @@
-﻿<Solution>
-  <Project Path="MuitLibraryNowAPI/MuitLibraryNowAPI.csproj" />
-  <Project Path="MuitLibraryETL/MuitLibraryETL.csproj" />
-</Solution>

@@ -1,0 +1,4 @@
+﻿<Solution>
+  <Project Path="VillaniaLibraryNowAPI/VillaniaLibraryNowAPI.csproj" />
+  <Project Path="VillaniaLibraryETL/VillaniaLibraryETL.csproj" />
+</Solution>
