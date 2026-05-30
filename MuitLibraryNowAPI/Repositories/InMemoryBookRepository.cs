@@ -9,92 +9,92 @@ namespace MuitLibraryNowAPI.Repositories
             new Book
             {
                 Id = 1,
-                Title = "The Gentle Reminder",
-                Author = "Bianca Sparacino",
-                Genre = "Poetic Self help",
+                Title = "Realms of Runeterra",
+                Author = "Riot Games",
+                Genre = "Lore / World Guide",
+                Available = true,
+                PublishedYear = 2019
+            },
+            new Book
+            {
+                Id = 2,
+                Title = "Ruination: A League of Legends Novel",
+                Author = "Anthony Reynolds",
+                Genre = "Fantasy / Dark Fiction",
+                Available = true,
+                PublishedYear = 2022
+            },
+            new Book
+            {
+                Id = 3,
+                Title = "The Name of the Wind",
+                Author = "Patrick Rothfuss",
+                Genre = "Epic Fantasy",
+                Available = true,
+                PublishedYear = 2007
+            },
+            new Book
+            {
+                Id = 4,
+                Title = "Mistborn: The Final Empire",
+                Author = "Brandon Sanderson",
+                Genre = "High Fantasy",
+                Available = true,
+                PublishedYear = 2006
+            },
+            new Book
+            {
+                Id = 5,
+                Title = "The Way of Kings",
+                Author = "Brandon Sanderson",
+                Genre = "Epic Fantasy",
+                Available = false,
+                PublishedYear = 2010
+            },
+            new Book
+            {
+                Id = 6,
+                Title = "Project Hail Mary",
+                Author = "Andy Weir",
+                Genre = "Science Fiction",
                 Available = true,
                 PublishedYear = 2021
             },
             new Book
             {
-                Id = 2,
-                Title = "let Go and Let God",
-                Author = "Albert E. Cliffe",
-                Genre = "Spritual Self Help",
-                Available = true,
-                PublishedYear = 1954
-            },
-            new Book
-            {
-                Id = 3,
-                Title = "Atomic Habits",
-                Author = "James Clear",
-                Genre = "Self Help",
-                Available = true,
-                PublishedYear = 2018
-            },
-            new Book
-            {
-                Id = 4,
-                Title = "The Alchemist",
-                Author = "Paulo Coelho",
-                Genre = "Adventure Fiction",
-                Available = true,
-                PublishedYear = 1988
-            },
-            new Book
-            {
-                Id = 5,
-                Title = "To Kill a Mockingbird",
-                Author = "Harper Lee",
-                Genre = "Classic Fiction",
-                Available = true,
-                PublishedYear = 1960
-            },
-            new Book
-            {
-                Id = 6,
-                Title = "The Midnight Library",
-                Author = "Matt Haig",
-                Genre = "Contemporary Fiction",
-                Available = true,
-                PublishedYear = 2020
-            },
-            new Book
-            {
                 Id = 7,
-                Title = "The Four Agreements",
-                Author = "Don Miguel Ruiz",
-                Genre = "Spiritual Self Help",
-                Available = false,
-                PublishedYear = 1997
+                Title = "The Priory of the Orange Tree",
+                Author = "Samantha Shannon",
+                Genre = "Fantasy",
+                Available = true,
+                PublishedYear = 2019
             },
             new Book
             {
                 Id = 8,
-                Title = "It Ends with Us",
-                Author = "Colleen Hoover",
-                Genre = "Romance Fiction",
-                Available = true,
-                PublishedYear = 2016
+                Title = "The Silent Patient",
+                Author = "Alex Michaelides",
+                Genre = "Psychological Thriller",
+                Available = false,
+                PublishedYear = 2019
             },
             new Book
             {
                 Id = 9,
-                Title = "Deep Work",
-                Author = "Cal Newport",
-                Genre = "Productivity",
+                Title = "Dune",
+                Author = "Frank Herbert",
+                Genre = "Science Fiction",
                 Available = true,
-                PublishedYear = 2016
+                PublishedYear = 1965
             },
             new Book
             {
                 Id = 10,
-                Title = "Think and Grow Rich",
-                Author = "Napoleon Hill",
-                Genre = "Personal Development",
-                Available = false,
-                PublishedYear = 1937
+                Title = "Ninth House",
+                Author = "Leigh Bardugo",
+                Genre = "Dark Academia Fantasy",
+                Available = true,
+                PublishedYear = 2019
             }
         ];
         private readonly object _syncRoot = new();
