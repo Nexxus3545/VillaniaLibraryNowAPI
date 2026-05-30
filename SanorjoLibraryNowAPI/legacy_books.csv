@@ -1,6 +1,0 @@
-id,book_title,writer,book_type,is_available,year_pub
-001,clean code,robert c. martin,programming,no,2008
-002,the pragmatic programmer,andrew hunt,programming,YES,1999
-003,design patterns,gang of four,architecture,no,1994
-004,you dont know js,kyle simpson,javascript,YES,2015
-005,introduction to algorithms,CLRS,,yes,2009

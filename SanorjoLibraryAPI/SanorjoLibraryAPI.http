@@ -1,6 +1,0 @@
-@SanorjoLibraryAPI_HostAddress = http://localhost:8080
-
-GET {{SanorjoLibraryAPI_HostAddress}}/api/v1/books
-Accept: application/json
-
-###
