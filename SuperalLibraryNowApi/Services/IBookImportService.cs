@@ -1,6 +1,6 @@
-using SuperalLibraraynowAPI.Models;
+using SuperalLibraryNowApi.Models;
 
-namespace SuperalLibraraynowAPI.Services
+namespace SuperalLibraryNowApi.Services
 {
     public interface IBookImportService
     {

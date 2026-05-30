@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace SuperalLibraraynowAPI.Controllers
+namespace SuperalLibraryNowApi.Controllers
 {
     [ApiController]
     [Route("[controller]")]

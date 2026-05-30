@@ -1,6 +1,6 @@
-using SuperalLibraraynowAPI.Models;
+using SuperalLibraryNowApi.Models;
 
-namespace SuperalLibraraynowAPI.Repositories
+namespace SuperalLibraryNowApi.Repositories
 {
     public class InMemoryBookRepository : IBookRepository
     {

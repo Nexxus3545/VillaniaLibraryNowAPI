@@ -1,5 +1,5 @@
-using SuperalLibraraynowAPI.Repositories;
-using SuperalLibraraynowAPI.Services;
+using SuperalLibraryNowApi.Repositories;
+using SuperalLibraryNowApi.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 

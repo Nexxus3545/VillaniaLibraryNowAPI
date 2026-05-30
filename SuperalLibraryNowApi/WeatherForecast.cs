@@ -1,4 +1,4 @@
-namespace SuperalLibraraynowAPI
+namespace SuperalLibraryNowApi
 {
     public class WeatherForecast
     {

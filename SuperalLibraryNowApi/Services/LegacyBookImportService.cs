@@ -1,9 +1,9 @@
 using System.Globalization;
 using Microsoft.VisualBasic.FileIO;
-using SuperalLibraraynowAPI.Models;
-using SuperalLibraraynowAPI.Repositories;
+using SuperalLibraryNowApi.Models;
+using SuperalLibraryNowApi.Repositories;
 
-namespace SuperalLibraraynowAPI.Services
+namespace SuperalLibraryNowApi.Services
 {
     public class LegacyBookImportService : IBookImportService
     {

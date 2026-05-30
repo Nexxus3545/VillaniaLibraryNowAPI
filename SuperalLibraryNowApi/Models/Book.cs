@@ -1,4 +1,4 @@
-namespace SuperalLibraraynowAPI.Models
+namespace SuperalLibraryNowApi.Models
 {
     public class Book
     {
