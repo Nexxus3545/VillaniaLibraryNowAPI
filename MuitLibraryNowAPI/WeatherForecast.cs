@@ -1,4 +1,4 @@
-namespace OleleLibraryNowAPI
+﻿namespace MuitLibraryNowAPI
 {
     public class WeatherForecast
     {

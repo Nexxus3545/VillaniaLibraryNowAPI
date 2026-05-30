@@ -1,6 +1,0 @@
-@OleleLibraryNowAPI_HostAddress = http://localhost:8080
-
-GET {{OleleLibraryNowAPI_HostAddress}}/api/v1/books
-Accept: application/json
-
-###

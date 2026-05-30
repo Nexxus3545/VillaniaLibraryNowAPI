@@ -1,4 +1,0 @@
-<Solution>
-  <Project Path="OleleLibraryNowAPI/OleleLibraryNowAPI.csproj" />
-  <Project Path="OleleLibraryETL/OleleLibraryETL.csproj" />
-</Solution>

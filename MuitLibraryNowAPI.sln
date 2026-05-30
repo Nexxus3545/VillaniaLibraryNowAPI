@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OleleLibraryNowAPI", "OleleLibraryNowAPI\OleleLibraryNowAPI.csproj", "{68EB80C6-EA96-4474-8CC1-B966E7C70EBA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MuitLibraryNowAPI", "MuitLibraryNowAPI\MuitLibraryNowAPI.csproj", "{68EB80C6-EA96-4474-8CC1-B966E7C70EBA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OleleLibraryETL", "OleleLibraryETL\OleleLibraryETL.csproj", "{AC722341-61AA-4D51-AF1E-5053C46E59B1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MuitLibraryETL", "MuitLibraryETL\MuitLibraryETL.csproj", "{AC722341-61AA-4D51-AF1E-5053C46E59B1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
